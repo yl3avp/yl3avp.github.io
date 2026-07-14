@@ -1,11 +1,11 @@
 configuration:
-  pageTitle: Quartz
-  pageTitleSuffix: ""
+  pageTitle: YL3AVP
+  pageTitleSuffix: "station"
   enableSPA: true
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: sosiristseng.github.io/template-quartz
+  baseUrl: yl3avp.github.io
   ignorePatterns:
     - private
     - templates
