@@ -1,0 +1,1 @@
+https://www.baofengradio.com/products/dm-32uv
