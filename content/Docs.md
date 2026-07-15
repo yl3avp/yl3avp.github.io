@@ -1,5 +1,9 @@
 # Documentation Library
 
+
+
+[[FS-1550-operator-manual.pdf]]
+
 ## 📻 Radio Manuals
 
 - [[Furuno FS-1550]]
