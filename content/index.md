@@ -1,5 +1,5 @@
 ---
-title: Welcome to YL3AVP station
+title: Welcome to YL3AVP
 ---
 
 ![[images/shack.jpg|300]]
