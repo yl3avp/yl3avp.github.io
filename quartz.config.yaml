@@ -223,10 +223,10 @@ plugins:
     enabled: true
     options:
       links:
-        QRZ: [https://www.qrz.com/db/YL3AVP](https://www.qrz.com/db/YL3AVP)
-        GitHub: [https://github.com/yl3avp](https://github.com/yl3avp)
+        QRZ: https://www.qrz.com/db/YL3AVP/
+        GitHub: https://github.com/yl3avp/
   - source: github:quartz-community/recent-notes
-    enabled: true
+    §§enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
