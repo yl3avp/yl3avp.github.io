@@ -179,7 +179,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -206,7 +206,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
@@ -223,8 +223,8 @@ plugins:
     enabled: true
     options:
       links:
-        QRZ: https://www.qrz.com/db/YL3AVP
-        GitHub: https://github.com/yl3avp
+        QRZ: [https://www.qrz.com/db/YL3AVP](https://www.qrz.com/db/YL3AVP)
+        GitHub: [https://github.com/yl3avp](https://github.com/yl3avp)
   - source: github:quartz-community/recent-notes
     enabled: true
   - source: github:quartz-community/spacer
