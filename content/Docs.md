@@ -2,7 +2,7 @@
 
 
 
-[[FS-1550-operator-manual.pdf]]
+[[Documents/FS-1550-operator-manual.pdf]]
 
 ## 📻 Radio Manuals
 
