@@ -7,6 +7,8 @@ title: Documents
 
 ## Radio Manuals
 
-- [Furuno FS-1550](./FS-1550.pdf)
-/IC-7300.pdf)
 
+
+- [Furuno FS-1550 1](FS-1550-operators-manual.pdf)
+- [Furuno FS-1550 2](FS-1550-series-service-manual.pdf)
+- [Furuno FS-1550 3](FS-1550-service-manual.pdf)
