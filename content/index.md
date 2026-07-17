@@ -6,6 +6,9 @@ title: Welcome to YL3AVP
 
 Radio Amateur (YL3AVP), Homelab Enthusiast.
 
+
+[[Furuno FS-1550/index]]
+
 ## Navigation
 
 - [[About]]
