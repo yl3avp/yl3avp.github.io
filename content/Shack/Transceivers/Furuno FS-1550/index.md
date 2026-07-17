@@ -2,7 +2,7 @@
 https://www.rigpix.com/marine/furuno_fs1550.htm
 
 
-GENERAL
+### GENERAL
 
 Type:	Marine HF transceiver
 Frequency range:	TX: 1.6-23 MHz
@@ -25,7 +25,7 @@ Other features:
 
 
 
-RECEIVER SECTION
+### RECEIVER SECTION
 Receiver system:	Double conversion superheterodyne
 1st IF: 54.455 MHz
 2nd IF: 455 KHz
@@ -42,7 +42,7 @@ External speaker connector:	?, 4 ohm
 
 
 
-TRANSMITTER SECTION
+@@@@ TRANSMITTER SECTION
 RF output power:	AM/SSB: Max 150 W PEP
 CW/RTTY: Max 100 W (Optional)
 Modulation system:	
@@ -54,7 +54,7 @@ Microphone input level:	? mV
 
 
 
-MISCELLANEOUS
+#### MISCELLANEOUS
 Manufactured:	1989-199x (Discontinued)
 Additional info:	
 Related documents:	User manual (3.1 MB)
@@ -66,3 +66,5 @@ PC-220
 PR-270	Antenna coupler, 1.6-25 MHz, 150 W PEP
 DC-DC converter, 24 or 32 VDC to 13.6 VDC
 Power supply, 110/220 VAC to 13.6 VDC
+
+
