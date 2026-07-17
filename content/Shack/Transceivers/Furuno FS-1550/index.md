@@ -1,4 +1,6 @@
 
+![[furuno_fs1550.jpg]]
+
 https://www.rigpix.com/marine/furuno_fs1550.htm
 
 
