@@ -1,3 +1,7 @@
+
+https://www.rigpix.com/marine/furuno_fs1550.htm
+
+
 GENERAL
 
 Type:	Marine HF transceiver
