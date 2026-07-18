@@ -1,5 +1,7 @@
 [Likumi.lv ](https://m.likumi.lv/ta/id/342127-radioamatieru-eksaminacijas-apliecibu-un-radioamatieru-radiostacijas-atlauju-sanemsanas-kartiba-ka-ari-radioamatieru-radiostaciju-lietosanas-kartiba)
 
+https://www.arrl.org/band-plan
+
 
 | Nr.   <br>p. k. | Radiofrekvenču josla | Sadalījuma kategorija1 | Jauda2     | Papildu nosacījumi    |
 | --------------- | -------------------- | ---------------------- | ---------- | --------------------- |
